@@ -40,5 +40,5 @@
 
 
 ## P2P and Exchange Platform: Decentralized Solution for Cryptocurrency Trading  
-I am working on a P2P and exchange platform similar to Binance. This platform enables users to buy and sell cryptocurrencies directly by communicating with each other. With its decentralized structure, it provides a secure and fast transaction experience. Users can determine their desired assets, set transaction prices, and search for suitable offers, making it easy for them to carry out their transactions.  
+I am working on a P2P and exchange platform. This platform enables users to buy and sell cryptocurrencies directly by communicating with each other. With its decentralized structure, it provides a secure and fast transaction experience. Users can determine their desired assets, set transaction prices, and search for suitable offers, making it easy for them to carry out their transactions.  
  
